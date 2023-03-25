@@ -1,0 +1,39 @@
+{
+    "employee" :[
+        {
+          "Id": 1,
+          "Name": "Randy",
+          "Age": "22",
+          "Designation": "Wasting Time",
+          "Salary": "1000"
+        },
+        {
+          "Id": 2,
+          "Name": "Goutham",
+          "Age": "23",
+          "Designation": "gaming",
+        "  Salary": "1000"
+        },
+        {
+          "Id": 3,
+          "Name": "Tamil",
+          "Age": "22",
+          "Designation": "Developer",
+        "  Salary": "2000"
+        },
+        {
+          "Id": 4,
+          "Name": "Sabari",
+          "Age": "22",
+          "Designation": "Working",
+        "  Salary": "15000"
+        },
+        {
+          "Id": 5,
+          "Name": "Vickey",
+          "Age": "23",
+          "Designation": "Scrolling Reels",
+        "  Salary": "3000"
+        }
+      ]
+}
